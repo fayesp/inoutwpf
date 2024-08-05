@@ -1,0 +1,17 @@
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\bin\Debug\6.4.2BindingDataConvert.exe.config
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\bin\Debug\6.4.2BindingDataConvert.exe
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\bin\Debug\6.4.2BindingDataConvert.pdb
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.csproj.AssemblyReference.cache
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\MainWindow.g.cs
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\App.g.cs
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert_MarkupCompile.cache
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert_MarkupCompile.lref
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\MainWindow.baml
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.g.resources
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\_6._4._2BindingDataConvert.Icons.Resource1.resources
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\_6._4._2BindingDataConvert.Properties.Resources.resources
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.csproj.GenerateResource.cache
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.exe
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\6.4.2BindingDataConvert.pdb
+D:\desktop\深入浅出wpf\6.4.2BindingDataConvert\obj\Debug\GeneratedInternalTypeHelper.g.cs

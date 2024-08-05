@@ -1,0 +1,16 @@
+D:\desktop\深入浅出wpf\bindingproject\bin\Debug\bindingproject.exe.config
+D:\desktop\深入浅出wpf\bindingproject\bin\Debug\bindingproject.exe
+D:\desktop\深入浅出wpf\bindingproject\bin\Debug\bindingproject.pdb
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\MainWindow.g.cs
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\App.g.cs
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject_MarkupCompile.cache
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject_MarkupCompile.lref
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\MainWindow.baml
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject.g.resources
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject.Properties.Resources.resources
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\TypeConverter.csproj.GenerateResource.cache
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\TypeConverter.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject.exe
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\bindingproject.pdb
+D:\desktop\深入浅出wpf\bindingproject\obj\Debug\TypeConverter.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\desktop\深入浅出wpf\debug\bin\Debug\debug.exe.config
+D:\desktop\深入浅出wpf\debug\bin\Debug\debug.exe
+D:\desktop\深入浅出wpf\debug\bin\Debug\debug.pdb
+D:\desktop\深入浅出wpf\debug\obj\Debug\debug.csproj.AssemblyReference.cache
+D:\desktop\深入浅出wpf\debug\obj\Debug\debug.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\debug\obj\Debug\debug.exe
+D:\desktop\深入浅出wpf\debug\obj\Debug\debug.pdb

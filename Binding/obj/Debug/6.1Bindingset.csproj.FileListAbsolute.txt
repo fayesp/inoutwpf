@@ -1,0 +1,15 @@
+D:\desktop\深入浅出wpf\Binding\bin\Debug\Binding.exe.config
+D:\desktop\深入浅出wpf\Binding\bin\Debug\Binding.exe
+D:\desktop\深入浅出wpf\Binding\bin\Debug\Binding.pdb
+D:\desktop\深入浅出wpf\Binding\obj\Debug\6.1Bindingset.csproj.AssemblyReference.cache
+D:\desktop\深入浅出wpf\Binding\obj\Debug\MainWindow.g.cs
+D:\desktop\深入浅出wpf\Binding\obj\Debug\App.g.cs
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding_MarkupCompile.cache
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding_MarkupCompile.lref
+D:\desktop\深入浅出wpf\Binding\obj\Debug\MainWindow.baml
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding.g.resources
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding.Properties.Resources.resources
+D:\desktop\深入浅出wpf\Binding\obj\Debug\6.1Bindingset.csproj.GenerateResource.cache
+D:\desktop\深入浅出wpf\Binding\obj\Debug\6.1Bindingset.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding.exe
+D:\desktop\深入浅出wpf\Binding\obj\Debug\Binding.pdb

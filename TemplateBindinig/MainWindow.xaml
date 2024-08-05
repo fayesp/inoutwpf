@@ -1,0 +1,33 @@
+﻿<Window x:Class="TemplateBindinig.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemplateBindinig"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Width="100" Height="50" Content="Click Me" Background="White" 
+                Foreground="red" BorderBrush="Orange" BorderThickness="5" HorizontalContentAlignment="Left">
+            <Button.Template>
+                <ControlTemplate TargetType="Button"> <!--绑定相应属性到button的属性-->
+                    <Border Background="{TemplateBinding BorderBrush}" 
+                            BorderBrush="{TemplateBinding Background}" 
+                            BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10" Margin="10"
+                            Padding="1" >
+                        
+                        <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" 
+                                          VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        <!--#region templatebinding -->
+                        <!--实际是将border的属性在模板中，我们使用了 TemplateBinding 来绑定 Border 的 
+                        Background、BorderBrush 和 BorderThickness 属性到按钮的相应属性上。此外，
+                        我们还使用 TemplateBinding 将 ContentPresenter 的 HorizontalAlignment 和 
+                        VerticalAlignment 属性绑定到按钮的 HorizontalContentAlignment 和 
+                        VerticalContentAlignment 属性上。-->
+                        <!--#endregion-->
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\desktop\深入浅出wpf\command\bin\Debug\command.exe.config
+D:\desktop\深入浅出wpf\command\bin\Debug\command.exe
+D:\desktop\深入浅出wpf\command\bin\Debug\command.pdb
+D:\desktop\深入浅出wpf\command\obj\Debug\command.csproj.AssemblyReference.cache
+D:\desktop\深入浅出wpf\command\obj\Debug\MainWindow.g.cs
+D:\desktop\深入浅出wpf\command\obj\Debug\App.g.cs
+D:\desktop\深入浅出wpf\command\obj\Debug\command_MarkupCompile.cache
+D:\desktop\深入浅出wpf\command\obj\Debug\command_MarkupCompile.lref
+D:\desktop\深入浅出wpf\command\obj\Debug\MainWindow.baml
+D:\desktop\深入浅出wpf\command\obj\Debug\command.g.resources
+D:\desktop\深入浅出wpf\command\obj\Debug\command.Properties.Resources.resources
+D:\desktop\深入浅出wpf\command\obj\Debug\command.csproj.GenerateResource.cache
+D:\desktop\深入浅出wpf\command\obj\Debug\command.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\command\obj\Debug\command.exe
+D:\desktop\深入浅出wpf\command\obj\Debug\command.pdb

@@ -1,0 +1,15 @@
+D:\desktop\深入浅出wpf\6.5MultiBinding\bin\Debug\6.5MultiBinding.exe.config
+D:\desktop\深入浅出wpf\6.5MultiBinding\bin\Debug\6.5MultiBinding.exe
+D:\desktop\深入浅出wpf\6.5MultiBinding\bin\Debug\6.5MultiBinding.pdb
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.csproj.AssemblyReference.cache
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\MainWindow.g.cs
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\App.g.cs
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding_MarkupCompile.cache
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding_MarkupCompile.lref
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\MainWindow.baml
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.g.resources
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\_6._5MultiBinding.Properties.Resources.resources
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.csproj.GenerateResource.cache
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.csproj.CoreCompileInputs.cache
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.exe
+D:\desktop\深入浅出wpf\6.5MultiBinding\obj\Debug\6.5MultiBinding.pdb

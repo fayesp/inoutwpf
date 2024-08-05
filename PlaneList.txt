@@ -1,0 +1,4 @@
+Category=Bomber,Name=B-1,State=Locked
+Category=Bomber,Name=B-2,State=Avaliable
+Category=Fighter,Name=F-22,State=Avaliable
+Category=Fighter,Name=Su-47,State=Unknown
