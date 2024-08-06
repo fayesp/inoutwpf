@@ -61,6 +61,8 @@ namespace _6._4._2BindingDataConvert {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
+            SplashScreen splashScreen = new SplashScreen("resources/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20230210195311.jpg");
+            splashScreen.Show(true);
             _6._4._2BindingDataConvert.App app = new _6._4._2BindingDataConvert.App();
             app.InitializeComponent();
             app.Run();

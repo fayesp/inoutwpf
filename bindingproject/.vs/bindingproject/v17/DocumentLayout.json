@@ -1,21 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\bindingproject\\",
+  "WorkspaceRootPath": "D:\\desktop\\inoutwpf\\bindingproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C1931CF-9090-481B-9ED8-FDCC61E6FD45}|..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj|d:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2bindingdataconvert\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2DF5607-AF89-4C2E-B0B2-3F96282916C3}|..\\_7.1Property\\_7.1Property.csproj|d:\\desktop\\inoutwpf\\_7.1property\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1931CF-9090-481B-9ED8-FDCC61E6FD45}|..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj|d:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2bindingdataconvert\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E2DF5607-AF89-4C2E-B0B2-3F96282916C3}|..\\_7.1Property\\_7.1Property.csproj|d:\\desktop\\inoutwpf\\_7.1property\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1931CF-9090-481B-9ED8-FDCC61E6FD45}|..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj|d:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2bindingdataconvert\\icons\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3EBB3B3-8EAF-43EA-89A7-16242FD2BD48}|3.2.2TypeConverter.csproj|d:\\desktop\\inoutwpf\\bindingproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3EBB3B3-8EAF-43EA-89A7-16242FD2BD48}|3.2.2TypeConverter.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|6.4.2BindingDataConvert||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1931CF-9090-481B-9ED8-FDCC61E6FD45}|..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj|d:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2bindingdataconvert\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{A3EBB3B3-8EAF-43EA-89A7-16242FD2BD48}|3.2.2TypeConverter.csproj|d:\\desktop\\inoutwpf\\bindingproject\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A3EBB3B3-8EAF-43EA-89A7-16242FD2BD48}|3.2.2TypeConverter.csproj|solutionrelative:icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,57 +24,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "6.4.2BindingDataConvert",
-              "DocumentMoniker": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj",
-              "RelativeDocumentMoniker": "..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj",
-              "ToolTip": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj",
-              "RelativeToolTip": "..\\6.4.2BindingDataConvert\\6.4.2BindingDataConvert.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-04T16:14:45.363Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resource1.Designer.cs",
-              "DocumentMoniker": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\Icons\\Resource1.Designer.cs",
-              "RelativeDocumentMoniker": "..\\6.4.2BindingDataConvert\\Icons\\Resource1.Designer.cs",
-              "ToolTip": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\Icons\\Resource1.Designer.cs",
-              "RelativeToolTip": "..\\6.4.2BindingDataConvert\\Icons\\Resource1.Designer.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAewEgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T15:28:19.877Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\desktop\\inoutwpf\\_7.1Property\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\_7.1Property\\MainWindow.xaml",
+              "ToolTip": "D:\\desktop\\inoutwpf\\_7.1Property\\MainWindow.xaml",
+              "RelativeToolTip": "..\\_7.1Property\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-06T14:03:08.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\6.4.2BindingDataConvert\\MainWindow.xaml",
-              "ToolTip": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\MainWindow.xaml",
-              "RelativeToolTip": "..\\6.4.2BindingDataConvert\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-04T09:15:20.643Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\desktop\\inoutwpf\\_7.1Property\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\_7.1Property\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\desktop\\inoutwpf\\_7.1Property\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\_7.1Property\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:03:07.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\6.4.2BindingDataConvert\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\desktop\\\u6DF1\u5165\u6D45\u51FAwpf\\6.4.2BindingDataConvert\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\6.4.2BindingDataConvert\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAgwEAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T09:15:20.55Z",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\desktop\\inoutwpf\\bindingproject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\desktop\\inoutwpf\\bindingproject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-06T14:01:48.753Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
+              "DocumentMoniker": "D:\\desktop\\inoutwpf\\bindingproject\\icon.ico",
+              "RelativeDocumentMoniker": "icon.ico",
+              "ToolTip": "D:\\desktop\\inoutwpf\\bindingproject\\icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
+              "RelativeToolTip": "icon.ico - Icon [256x256, 32 \u4F4D, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-06T14:01:46.132Z",
+              "EditorCaption": " - Icon [256x256, 32 \u4F4D, PNG]"
             }
           ]
         }
